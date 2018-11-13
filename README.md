@@ -1,1 +1,2 @@
 # This is the repository of STAT547 Homewrok 07
+I folked Jenny Bryan's foofactors github repository and added a function to the foofactor package. I committed and pushed the changes that I made to the folked repository, which can be found [here](https://github.com/liuyadong08/foofactors).
